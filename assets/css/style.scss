@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 p.view > a:link {
-color: transparent;
+  color: transparent;
+}
+
+p > small {
+  color: transparent;
 }
