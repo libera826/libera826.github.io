@@ -1,8 +1,9 @@
 ![logo](./logo.png)
 
-## Profile
 
-<center><img src="./img/profile.jpg" width="50%" height="50%"></center>
+
+## Profile
+<img src="./img/profile.jpg" width="50%" height="50%">
 
 You can use the [editor on GitHub](https://github.com/libera826/libera826.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
