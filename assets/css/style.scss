@@ -10,3 +10,14 @@ p.view > a:link {
 p > small {
    display:none;
 }
+
+
+@media(min-width: 640px) {
+   div.wrapper{
+      width: 1000px;
+   }
+   
+   section{
+      width: 700px;
+   }
+}
