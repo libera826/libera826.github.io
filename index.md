@@ -1,12 +1,7 @@
 ![logo](./img/logo.png)
 
 
-
-## Profile
-![profile](./img/profile.png)
-
 ![1](./img/1.jpg)
-![1_1](./img/1_1.jpg)
 ![2](./img/2.jpg)
 ![3](./img/3.jpg)
 ![4](./img/4.jpg)
@@ -15,3 +10,7 @@
 ![7](./img/7.jpg)
 ![8](./img/8.jpg)
 ![9](./img/9.jpg)
+![10](./img/10.jpg)
+![11](./img/11.jpg)
+![12](./img/12.jpg)
+![13](./img/13.jpg)
