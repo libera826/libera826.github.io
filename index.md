@@ -1,7 +1,6 @@
 ![logo](./img/logo.png)
 
 ![1](./img/1.jpg)
-![2](./img/2.jpg)
 ![3](./img/3.jpg)
 ![3_1](./img/3_1.png)
 ![3_2](./img/3_2.png)
