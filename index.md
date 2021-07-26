@@ -1,7 +1,12 @@
 ![logo](./img/logo.png)
 
 ![1](./img/1.jpg)
-![3](./img/3.jpg)
+
+![1_1](./img/1_1.jpg)
+![1_2](./img/1_2.jpg)
+![1_3](./img/1_3.jpg)
+![1_4](./img/1_4.jpg)
+
 ![3_1](./img/3_1.png)
 ![3_2](./img/3_2.png)
 ![3_2](./img/3_3.jpg)
