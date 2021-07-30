@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 title: ECO ENERGY ENGINEERING CO., LTD.
 description: CESS/SOLAR GLASS PANEL/ICT HYBRID LED STREETLIGHT/ELECTRIC MOTORCYCLE/SOC FUNDING
 logo: ./img/sidebar.jpg
