@@ -1,9 +1,9 @@
-![logo](./img/logo.png)
+![logo](./img/logo.jpg)
 
 ![1](./img/1.jpg)
 
-![1_1](./img/1_1.png)
-![1_2](./img/1_2.png)
+![1_1](./img/1_1.jpg)
+![1_2](./img/1_2.jpg)
 ![1_3](./img/1_3.png)
 ![1_4](./img/1_4.png)
 
