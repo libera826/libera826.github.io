@@ -8,8 +8,8 @@
 ![report_5](./img/report_5.jpg)
 ![report_6](./img/report_6.jpg)
 ![report_7](./img/report_7.jpg)
-![report_8](./img/report_8.jpg)
-![report_9](./img/report_9.jpg)
+![report_8](./img/report_8.png)
+![report_9](./img/report_9.png)
 
 ![1_1_2](./img/1_1_2.jpg)
 
