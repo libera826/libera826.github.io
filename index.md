@@ -1,17 +1,31 @@
 ![logo](./img/logo.jpg)
 
-![1](./img/1.jpg)
+![1_1_1](./img/1_1_1.jpg)
+![report_1](./report_1.jpg)
+![report_2](./report_2.jpg)
+![report_3](./report_3.jpg)
+![report_4](./report_4.jpg)
+![report_5](./report_5.jpg)
+![report_6](./report_6.jpg)
+![report_7](./report_7.jpg)
+
+![1_1_2](./img/1_1_2.jpg)
 
 ![1_1](./img/1_1.jpg)
 ![1_2](./img/1_2.jpg)
 ![1_3](./img/1_3.png)
 ![1_4](./img/1_4.png)
 
+![1_5](./img/1_5.png)
+![1_6](./img/1_6.png)
+![1_7](./img/1_7.png)
 
 ![3_1](./img/3_1.png)
 ![3_2](./img/3_2.png)
 ![3_2](./img/3_3.jpg)
 ![4_1](./img/4_1.png)
+
+
 ![6](./img/6.jpg)
 ![6-1](./img/6-1.jpg)
 ![7](./img/7.jpg)
