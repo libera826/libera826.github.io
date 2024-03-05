@@ -19,8 +19,8 @@
 
 ![1_1](./img/p_1.jpg)
 ![1_2](./img/p_2.jpg)
-![1_3](./img/p_3.png)
-![1_4](./img/p_4.png)
+![1_3](./img/p_3.jpg)
+![1_4](./img/p_4.jpg)
 ![1_5](./img/p_5.jpg)
 ![1_6](./img/p_6.jpg)
 ![1_7](./img/p_7.jpg)
